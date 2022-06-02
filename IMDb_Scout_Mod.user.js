@@ -1302,7 +1302,7 @@ var public_sites = [
       'rateLimit': 5000,
       'both': true},
   {   'name': 'DonTor',
-      'icon': 'https://dontorrent.wtf/assets/images/touch-icon-ipad.png',
+      'icon': 'https://dontorrent.wtf/assets/images/touch-icon.png',
       'searchUrl': 'https://dontorrent.wtf/buscar/%search_string_orig%',
       'loggedOutRegex': /Cloudflare|Ray ID/,
       'matchRegex': /encontrado <b>0</,
